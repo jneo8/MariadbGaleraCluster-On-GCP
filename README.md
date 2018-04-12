@@ -151,10 +151,24 @@ Show wsrep_cluster_size = 3
 - set `static-ip`
 
 
+# Backup
+
+[Use gcp snapshot](https://github.com/jacksegal/google-compute-snapshot)
+
+
+# Recover
+
+http://inside-out.xyz/technology/recovering-mariadb-galera-cluster-after-a-restart.html
+
 
 # Reference materials
 
-https://www.techrepublic.com/article/how-to-set-up-a-mariadb-galera-cluster-on-ubuntu-16-04/
+- https://www.techrepublic.com/article/how-to-set-up-a-mariadb-galera-cluster-on-ubuntu-16-04/
+
+- https://github.com/jacksegal/google-compute-snapshot
+
+- http://inside-out.xyz/technology/recovering-mariadb-galera-cluster-after-a-restart.html
+
  
 
 

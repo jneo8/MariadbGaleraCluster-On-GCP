@@ -149,6 +149,12 @@ Show wsrep_cluster_size = 3
 - Frontend tcp:3306
 
 - set `static-ip`
+
+
+
+# Reference materials
+
+https://www.techrepublic.com/article/how-to-set-up-a-mariadb-galera-cluster-on-ubuntu-16-04/
  
 
 
